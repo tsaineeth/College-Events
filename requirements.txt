@@ -1,0 +1,7 @@
+Flask
+Flask-Migrate
+python-dotenv
+dotenv
+Flask-Login
+flask-cors
+Flask-Bcrypt
